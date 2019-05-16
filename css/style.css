@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+.nav-bar{
+    background-color: blue;
+    color:rgb(128, 8, 8)
+}
+
+
+
+
+.nav-bar ul img{
+    position: relative;
+    width: 99px;
+    height: 65px;
+    float: left;
+
+}
+.nav-bar li{
+    display: flex;
+    margin: 10;
+    padding: 0;
+}
+.nav-bar a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    color: rgb(128, 8, 8);  
+   
+}
+
+.header h1{
+    font-size: 3.6rem;
+}
+.header span{
+    color: rgb(121, 170, 127)
+}
+.header p{
+    font-family: 'Dancing Script', cursive;
+    color: rgba(236, 236, 236, 0.664);
+    font-size: 1.6rem;
+}
+
+.header{
+    background-color: rgb(3, 219, 32);
+    text-align: center;
+    
+}
+.products{
+    font-size: 3.6rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(83, 97, 32);
+}
+
+.footer{
+    text-align: center;
+
+}
+
+
+
+
